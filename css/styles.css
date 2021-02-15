@@ -251,7 +251,7 @@ i .c1{
     text-align: center;
     margin: -40px 250px 0px 250px ;
     font-family: 'Noto Sans JP', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 20px;
     color: white;
     text-shadow: 4px 4px 8px #111;
@@ -1787,6 +1787,7 @@ footer{
     line-height: 27px;
     padding-left: 35px;
     font-size: 13px;
+    font-weight: 400;
 }
 
 li i{
@@ -1856,6 +1857,7 @@ li i{
     line-height: 30px;
     padding-left: 20px;
     font-size: 13px;
+    font-weight: 400;
 }
 
 .n4{
